@@ -1,4 +1,5 @@
 """This is my sequence constructor"""
+"""The idea of this code is in relation to my sequence diagram. Move a small object within the AutoDrive path of the robot to continue to desintation"""
 
 def receiveInput():
     print('Receive command from Controller')
